@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "blognya-adjie",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog site by Adjie, created with Gatbsy",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Adjie Guntoro <adjie1607@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/adjieguntoro-tokped/blognya-adjie"
   },
   "dependencies": {
     "gatsby": "^2.18.12",
@@ -38,9 +38,9 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://adjieguntoro.com",
   "keywords": [
-    "gatsby"
+    "gatsby", "adjie guntoro"
   ],
   "license": "MIT",
   "main": "n/a",

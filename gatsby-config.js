@@ -3,7 +3,7 @@ module.exports = {
     title: `adjieguntoro.com`,
     author: `Adjie Guntoro`,
     description: `Ini deskripsi blog nya`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://adjieguntoro.com`,
     social: {
       twitter: `adjieguntoro`,
     },
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/gatsby-icon.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,

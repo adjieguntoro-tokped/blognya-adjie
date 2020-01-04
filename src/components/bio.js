@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in a planet
-        called Earth.
+        <strong>{author}</strong> <br /> who lives and works in a planet called
+        earth.
       </p>
     </div>
   )
