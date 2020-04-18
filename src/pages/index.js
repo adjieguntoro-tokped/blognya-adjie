@@ -1,75 +1,53 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import Helmet from "react-helmet"
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-
-class BlogIndex extends React.Component {
-  render() {
-    const { data } = this.props
-    const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
-
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All posts" />
-        <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <article key={node.fields.slug}>
-              <header>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                    {title}
-                  </Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-              </header>
-              <section>
-                <p
-                  dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
-                  }}
-                />
-              </section>
-            </article>
-          )
-        })}
-      </Layout>
-    )
-  }
+const styles = {
+  container: {
+    display: "block",
+    height: "100vh",
+    width: "100%",
+    position: "relative",
+    backgroundColor: "#171c28",
+  },
+  wrapper: {
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    padding: "18px",
+    textAlign: "left",
+    height: "100%",
+  },
+  content: {
+    display: "block",
+    fontSize: `${14 / 16}rem`,
+    color: "#afafbf",
+  },
 }
 
-export default BlogIndex
+const Home = () => {
+  return (
+    <>
+      <Helmet title="Adjie Guntoro" />
+      <div style={styles.container}>
+        <div style={styles.wrapper}>
+          <code style={styles.content}>
+            Hi, There! <br />
+            Adjie Guntoro is here.
+            <br />
+            Currently work as Sofware Engineer at Tech Company in Jakarta,
+            Indonesia.
+            <br />
+            Web Development enthusiast, movies and also books!
+            <br />
+            em: adjie1607@gmail.com | tw:{" "}
+            <a target="_blank" href="https://twitter.com/adjieguntoro">
+              @adjieguntoro
+            </a>
+          </code>
+        </div>
+      </div>
+    </>
+  )
+}
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
-          }
-        }
-      }
-    }
-  }
-`
+export default Home
