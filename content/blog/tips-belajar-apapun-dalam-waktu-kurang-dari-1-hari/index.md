@@ -4,7 +4,7 @@ date: "2020-04-18T22:12:03.284Z"
 description: "Tips Belajar Skill Baru dalam Waktu Kurang dari 1 Hari"
 ---
 
-Kali ini saya akan berbagi tentang ilmu yang saya dapatkan dari sebuah video di Youtube. Tepatnya dari channel TED Talks. Video yang diunggah beberapa tahun yang lalu ini menampilkan seorang Josh Kaufman yang mempresentasikan sebuah hasil riset tentang berapa lama waktu yang dibutuhkan seseorang untuk bisa mendapatkan skill baru.
+Di suatu sore yang cerah saya menemukan satu video yang menarik perhatian, kali ini saya akan berbagi tentang video tersebut. Tepatnya dari channel Youtube TED Talks. Video yang diunggah beberapa tahun yang lalu ini menampilkan seorang Josh Kaufman yang mempresentasikan sebuah hasil riset tentang berapa lama waktu yang dibutuhkan seseorang untuk bisa mendapatkan skill baru.
 
 Video itu dimulai dengan Josh yang bercerita tentang suatu momen yang kala itu sangat mengubah hidupnya. Ya, dia dianugerahi seorang anak perempuan. Menurut dia menjadi orang tua adalah pengalaman yang sangat luar biasa. Josh beserta istrinya berubah menjadi pasangan yang super sibuk, mereka harus belajar dan membiasakan diri mengurus si buah hati. Terlebih mereka juga harus menjalankan bisnis nya dari rumah, kebayangkan sibuknya si Josh ini.
 
@@ -20,7 +20,7 @@ Setelah membaca banyak buku dan juga website, Josh menemukan jawabannya. Ya, jaw
 
 Etts, tapi tunggu dulu!
 
-Faktanya, 10.000 jam merupakan waktu yang dibutuhkan bagi mereka yang ingin mempunyai skill atau keterampilan di-level expert. Adalah K. Andrers Ericsson seorang profesor di Florida State University, ia merupakan orang yang melakukan penelitan dan menghasilkan 10.000 jam _rule_. Penelitian tersebut merupakan hasil dari wawancara beliau dengan profesional atlet, musisi kelas dunia, juara dunia catur, orang-orang yang diwawancarai adalah orang-orang yang memiliki skill tingkat tinggi di bidangnya masing-masing. Bagaimana mereka bisa mencapai kesuksesan tertinggi di bindangya, dan berapa lama waktu yang mereka habiskan untuk berlatih hingga mendapat gelar juara dunia. Dan jawabannya adalah rata-rata mereka telah menghabiskan waktu sekitar 10 ribu jam untuk berlatih.
+Faktanya, 10.000 jam merupakan waktu yang dibutuhkan bagi mereka yang ingin mempunyai skill atau keterampilan di-level expert. Adalah K. Andrers Ericsson seorang profesor di Florida State University, ia merupakan orang yang melakukan penelitan dan menghasilkan 10.000 jam _rule_. Penelitian tersebut merupakan hasil dari wawancara beliau dengan profesional atlet, musisi kelas dunia, juara dunia catur, orang-orang yang diwawancarai adalah orang-orang yang memiliki skill tingkat tinggi di bidangnya masing-masing. Bagaimana mereka bisa mencapai kesuksesan tertinggi di bidangya, dan berapa lama waktu yang mereka habiskan untuk berlatih hingga mendapat gelar juara dunia. Dan jawabannya adalah rata-rata mereka telah menghabiskan waktu sekitar 10 ribu jam untuk berlatih.
 
 _Gak_ puas dengan jawaban yang didapat, akhirnya Josh melakukan penelitiannya sendiri.
 
@@ -29,7 +29,7 @@ _Gak_ puas dengan jawaban yang didapat, akhirnya Josh melakukan penelitiannya se
 Dari penelitian milik Dr. Ericsson, yang Josh pelajari adalah seseorang akan menjadi terbiasa atau bahkan expert dengan skill nya ketika mereka melakukan latihan yang terus menerus. Masalahnya adalah, mungkin saja ga semua orang ingin belajar skill baru dengan tujuan ingin menjadi expert di bidangnya, bagaimana dengan orang yang cuma sekedar ingin bisa. Apakah orang itu juga butuh waktu 10 ribu jam?
 Jadi, berdasarkan grafik di atas, Josh mulai mencari tau seberapa lama waktu yang dibutuhkan seseorang untuk "menjadi bisa" pada skill tertentu. Dan ia mencapai pada sebuah kesimpulan, bahwa jika seseorang ingin belajar skill baru, baik itu skill yang bersifat fisik ataupun skill yang bersifat mental yang ia butuhkan adalah, berlatih selama **20 jam**.
 
-## The First 20 Hours ~ How to learn anyting!
+## The First 20 Hours ~ How to learn anything!
 
 Di mulai dari yang tidak tau apa-apa tentang hal yang ingin kita pelajari, bisa jadi ingin belajar bahasa baru, belajar bagaimana caranya menggambar, ingin belajar basic tentang sulap atau ingin belajar melupkan sesorang yang pernah menyakiti kita. Jika kita menyediakan waktu 20 jam untuk fokus berlatih ke hal-hal tersebut, si Josh bilang, kita pasti akan kaget dengan pencapaian tersebut. 20 jam rule sangat bisa dilakukan, tidak harus berturut-turut, kita bisa membaginya dengan 45 menit sehari, itu berarti bisa ditempuh kurang dari satu bulan.
 
@@ -43,7 +43,7 @@ Satu skill bisa jadi membutuhkan banyak hal yang harus dipelajari, tugas pertama
 
 ### Segera koreksi ketika kita sadar ada kesalahan selama latihan.
 
-Pada tahap inin kita diharuskan mencari 2 sampai 3 refrensi, bisa dari buku, video, kursus atau bisa apapun. Tapi jangan gunakan semua itu sebagai patokan baku atau jangan berpendapat bahwa kita hanya bisa mendapatkan skill yang diinginkan ketika selesai mempelajari semua refrensi itu. Pada tahap ini kita ditekankan untuk _Learn enough to self-correct_. Artinya, dari refrensi yang ada kita bisa menentukan hal-hal penting yang perlu dilakukan dan dengan cepat memperbaiki ketika kita mengalami kesalahan selama latihan.
+Pada tahap ini kita diharuskan mencari 2 sampai 3 refrensi, bisa dari buku, video, kursus atau bisa apapun. Tapi jangan gunakan semua itu sebagai patokan baku atau jangan berpendapat bahwa kita hanya bisa mendapatkan skill yang diinginkan ketika selesai mempelajari semua refrensi itu. Pada tahap ini kita ditekankan untuk _Learn enough to self-correct_. Artinya, dari refrensi yang ada kita bisa menentukan hal-hal penting yang perlu dilakukan dan dengan cepat memperbaiki ketika kita mengalami kesalahan selama latihan.
 
 ### Ketiga, Isolasi diri dari distraksi, bisa jadi internet ataupun TV.
 
