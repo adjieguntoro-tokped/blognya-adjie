@@ -6,6 +6,10 @@ Wordpress2016.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    blockquote: {
+      color: "#afafbf",
+      borderLeft: "1px solid #afafbf",
+    },
   }
 }
 
