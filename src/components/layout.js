@@ -52,7 +52,7 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div style={{ backgroundColor: `#171c28`, color: `#afafbf` }}>
+      <div style={{ color: `#222` }}>
         <div
           style={{
             marginLeft: `auto`,
