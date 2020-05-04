@@ -28,7 +28,9 @@ const styles = {
 const Home = () => {
   return (
     <>
-      <Helmet title="Adjie Guntoro" />
+      <Helmet title="Adjie Guntoro" meta={[
+        {name: `google-site-verification`, content: `OTuQ7fT2JRzxJM3eW0Hn2lDDXLAtBY8iiIZ2EnciS8g`}
+      ]}/>
       <div style={styles.container}>
         <div style={styles.wrapper}>
           <code style={styles.content}>
