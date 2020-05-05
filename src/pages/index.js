@@ -41,7 +41,7 @@ const Home = () => {
             Adjie Guntoro is here.
             <br />
             <br />
-            I'm a 24 years old. Currently, I work as Sofware Engineer at Tech
+            I'm a {(new Date()).getFullYear() - 1995} years old. Currently, I work as Sofware Engineer at Tech
             Company in Jakarta.
             <br />
             Web development enthusiast, movies and also books!
